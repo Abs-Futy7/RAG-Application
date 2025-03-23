@@ -1,0 +1,6 @@
+Types of retrieval-
+    1. Naive + KeyWord Search
+    2. Sequence Window retrieval
+    3. Self Query Retrieval
+    4. Parent Doc Retrieval
+    5. HDE
